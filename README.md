@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-The purpose of this analysis is to analyze the impact of each donation made to Alphabet Soup Foundation and vet potential recipients to ensure the foundation's money is being used properly and effectively using deep learning neuro network.
+The purpose of this analysis is to analyze the impact of each donation made to Alphabet Soup Foundation and vet potential recipients to ensure the foundation's money is being used properly and effectively using deep learning neural network.
 
 ## Results
 
@@ -51,6 +51,8 @@ To better optimize the model
 The optimized model resulted in an accuracy of 78.88% which is a big jump from 60%.
 
 Overall, using a deep learning neuro network was a good idea in analyzing the data. To get the best model, it may be best to make use of Keras Tuner to get the best hyper parameters that would provide the most ideal accuracy.
+
+A Random Forest Classifier model can also be performed as it is an ensemble learning technique that resembles neural network models in terms of structure and performance.
 
 In any situation where machine learning is possible, using a logistic regression machine learning model might not be a bad idea as the main purpose is for the model to determine if funding an organization would be successful or not.
 
